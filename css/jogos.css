@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: Assassins; 
+    src: url('../fonts/Assassin$.ttf');
+}
+@font-face {
+    font-family: Fela;
+    src: url('../fonts/Fela.otf');
+}
+/* NOME DOS JOGOS */
+/* SERIE PRINCIPAL */
+.serie-principal{
+    font-family: Fela;
+    font-size: 40px;
+    margin-top: 100px;
+}
+/* OUTROS JOGOS */
+.outros-jogos{
+    font-family: Fela;
+    font-size: 40px;
+    margin-top: 100px;
+}
+.jogos{
+    font-family: Assassins;
+    font-size: 30px;
+    padding: 50px;
+}
+.nome1{
+    margin-top: 100px;
+}
+.nomes{
+    margin-top: 15px;   
+}

@@ -8,7 +8,6 @@
     font-family: Fela;
     src: url('../fonts/Fela.otf');
 }
-/* NOME DOS JOGOS */
 /* SERIE PRINCIPAL */
 .serie-principal{
     font-family: Fela;
@@ -23,14 +22,7 @@
     margin-top: 100px;
     text-align: center;
 }
-.jogos{
-    font-family: Assassins;
-    font-size: 30px;
-    padding: 50px;
-}
-.nome1{
-    margin-top: 100px;
-}
-.nomes{
-    margin-top: 15px;   
+.img-principal{
+    margin-top: 50px;
+    text-align: center;
 }

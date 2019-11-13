@@ -10,19 +10,20 @@
 }
 /* SERIE PRINCIPAL */
 .serie-principal{
-    font-family: Fela;
+    font-family: Fela, Arial, sans-serif;
     font-size: 40px;
     margin-top: 100px;
     text-align: center;
 }
 /* OUTROS JOGOS */
 .outros-jogos{
-    font-family: Fela;
+    font-family: Fela, Arial, sans-serif;
     font-size: 40px;
     margin-top: 100px;
     text-align: center;
 }
-.img-principal{
+.imagens{
     margin-top: 50px;
-    text-align: center;
+    width: 783px;
+    height: 440px;
 }

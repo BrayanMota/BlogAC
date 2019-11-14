@@ -10,11 +10,12 @@
 }
 body{
     background-color: rgb(138, 138, 138);
-    /* background-image: url(/img/animus.jpg); */
-    /* background-size: 100%; */
+    background-image: url(/img/animus.png);
+    background-size: cover;
+    background-attachment: fixed;
 }
 #fundo {
-    background-color: white;
+    background-color: rgb(255, 255, 255,0.63);
     width: 80vmax;
     /* height: 3500px; */
     margin: 20vmin;
@@ -22,6 +23,7 @@ body{
 }
 /* TITULO PRINCIPAL DA PAGINA */
 #titulo{
+    background-color: white;
     font-family: Assassins, Arial, sans-serif;
     font-size: 80px;
     padding-top: 30px;
@@ -30,6 +32,7 @@ body{
 }
 /* SUBTITULO PRINCIPAL DA PAGINA */
 #sub-titulo{
+    background-color: white;
     font-family: Assassins, Arial, sans-serif;
     font-size: 28px;
     padding-left: 30px;
@@ -38,6 +41,7 @@ body{
     padding-bottom: 10px;
     font-weight: 900;
 }
+
 /* MENU DA NAVEGAÇÃO */
 .menu-principal {
     font-family: Fela, Arial, sans-serif;

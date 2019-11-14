@@ -8,3 +8,44 @@
     font-family: Fela;
     src: url('../fonts/Fela.otf');
 }
+.livros{
+    padding: 50px;
+}
+.nome1{
+    font-family: Assassins, Arial, sans-serif;
+    font-size: 35px;
+    margin-top: 150px;
+    clear: both;
+}
+.nomes{
+    font-family: Assassins, Arial, sans-serif;
+    font-size: 35px;
+    margin-top: 50px;
+    padding-top: 100px;
+    clear: both;
+}
+.capas{
+    width: 300px;
+    height: 430px;
+    margin-top: 20px;
+    border: 2px solid black;
+    float: left;
+}
+#troca-pagina{
+    font-family: Fela, Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 500px;
+    padding: 15px;
+    background-color: rgba(40, 111, 167);
+    clear: both;
+}
+.pagina:hover{
+    color: white;
+}
+.selecionar{
+    color: white;
+}
+li{
+    display: inline;
+}

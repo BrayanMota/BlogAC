@@ -38,6 +38,7 @@
     margin-top: 50px;
     width: 783px;
     height: 440px;
+    border: 2px solid black;
 }
 main{
     padding-bottom: 12%;

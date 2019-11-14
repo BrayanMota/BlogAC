@@ -8,12 +8,14 @@
     font-family: Fela;
     src: url('../fonts/Fela.otf');
 }
+/* IMAGEM DE FUNDO OU COR */
 body{
-    background-color: rgb(138, 138, 138);
+    /* background-color: rgb(138, 138, 138); */
     background-image: url(/img/animus.png);
     background-size: cover;
     background-attachment: fixed;
 }
+/* CONTEÚDO PRINCIPAL */
 #fundo {
     background-color: rgb(255, 255, 255,0.63);
     width: 80vmax;
@@ -41,7 +43,6 @@ body{
     padding-bottom: 10px;
     font-weight: 900;
 }
-
 /* MENU DA NAVEGAÇÃO */
 .menu-principal {
     font-family: Fela, Arial, sans-serif;
@@ -71,6 +72,3 @@ a{
     color: inherit;
     text-decoration: none;
 }
-/* div{
-    text-align: center;
-} */

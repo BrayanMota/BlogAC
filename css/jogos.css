@@ -15,6 +15,12 @@
     margin-top: 100px;
     text-align: center;
 }
+.sub-serie{
+    font-family: Fela, Arial, sans-serif;
+    font-size: 20px;
+    margin-top: 10px;
+    text-align: center;
+}
 /* OUTROS JOGOS */
 .outros-jogos{
     font-family: Fela, Arial, sans-serif;
@@ -22,8 +28,17 @@
     margin-top: 100px;
     text-align: center;
 }
+.sub-outros{
+    font-family: Fela, Arial, sans-serif;
+    font-size: 20px;
+    margin-top: 10px;
+    text-align: center;
+}
 .imagens{
     margin-top: 50px;
     width: 783px;
     height: 440px;
+}
+main{
+    padding-bottom: 12%;
 }

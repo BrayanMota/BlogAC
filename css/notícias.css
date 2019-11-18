@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: Assassins; 
+    src: url('../fonts/Assassin$.ttf');
+}
+@font-face {
+    font-family: Fela;
+    src: url('../fonts/Fela.otf');
+}
+@font-face {
+    font-family: OpenSans;
+    src: url('../fonts/OpenSans-Regular');
+}
+.noticia{
+    margin-top: 100px;
+    padding: 50px;
+    clear: both;
+}
+.noticias{
+    padding: 50px;
+}
+.img-noticia{
+    width: 350px;
+    height: 200px;
+    border: 2px solid black;
+    float: left;
+}
+.titulo-noticia{
+    font-family: Fela;
+    font-size: 20px;
+    clear:both;
+}
+.conteudo{
+    font-size: 20px;
+}

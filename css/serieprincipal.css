@@ -17,11 +17,16 @@
     margin-top: 100px;
     clear: both;
 } */
+.nome1{
+    font-family: Assassins, Arial, sans-serif;
+    font-size: 35px;
+    margin-top: 100px;
+    clear: both;
+}
 .nomes{
     font-family: Assassins, Arial, sans-serif;
     font-size: 35px;
-    margin-top: 50px;
-    padding-top: 100px;
+    padding-top: 75px;
     clear: both;
 }
 .capas{

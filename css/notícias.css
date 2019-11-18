@@ -34,3 +34,26 @@
 .conteudo{
     font-size: 20px;
 }
+#troca-pagina{
+    font-family: Fela, Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 50px;
+    padding: 15px;
+    background-color: rgba(40, 111, 167);
+    clear: both;
+}
+.pagina:hover{
+    color: white;
+}
+.selecionar{
+    color: white;
+}
+li{
+    display: inline;
+}
+footer{
+    background-color: black;
+    font-size: 30px;
+    color: #999;
+}

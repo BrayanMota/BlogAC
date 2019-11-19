@@ -31,6 +31,18 @@
     border: 2px solid black;
     float: left;
 }
+.titulo-conteudo{
+    font-family: Fela, Arial, sans-serif;
+    font-size: 18px;
+    padding-top: 22px;
+    padding-left: 350px;
+}
+.conteudo{
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-size: 18px;
+    padding-top: 22px;
+    padding-left: 350px;
+}
 #troca-pagina{
     font-family: Fela, Arial, sans-serif;
     font-size: 20px;

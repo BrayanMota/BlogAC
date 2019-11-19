@@ -7,6 +7,7 @@
 @font-face {
     font-family: Fela;
     src: url('../fonts/Fela.otf');
+<<<<<<< Updated upstream
 }
 @font-face {
     font-family: OpenSans;
@@ -56,4 +57,6 @@ footer{
     background-color: black;
     font-size: 30px;
     color: #999;
+=======
+>>>>>>> Stashed changes
 }

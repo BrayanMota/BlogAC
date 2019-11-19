@@ -8,10 +8,6 @@
     font-family: Fela;
     src: url('../fonts/Fela.otf');
 }
-@font-face {
-    font-family: OpenSans;
-    src: url('../fonts/OpenSans-Regular');
-}
 .noticia{
     margin-top: 100px;
     padding: 50px;
@@ -32,6 +28,7 @@
     clear:both;
 }
 .conteudo{
+    font-family: 'Open Sans', Arial, sans-serif;
     font-size: 20px;
 }
 #troca-pagina{

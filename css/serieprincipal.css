@@ -11,12 +11,6 @@
 .jogos{
     padding: 50px;
 }
-/* .nome1{
-    font-family: Assassins, Arial, sans-serif;
-    font-size: 35px;
-    margin-top: 100px;
-    clear: both;
-} */
 .nome1{
     font-family: Assassins, Arial, sans-serif;
     font-size: 35px;
@@ -35,6 +29,18 @@
     margin-top: 20px;
     border: 2px solid black;
     float: left;
+}
+.titulo-conteudo{
+    font-family: Fela, Arial, sans-serif;
+    font-size: 18px;
+    padding-top: 22px;
+    padding-left: 450px;
+}
+.conteudo{
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-size: 18px;
+    padding-top: 22px;
+    padding-left: 450px;
 }
 #troca-pagina{
     font-family: Fela, Arial, sans-serif;

@@ -42,22 +42,29 @@
     font-size: 18px;
     padding-top: 22px;
     padding-left: 350px;
+    padding-right: 200px;
 }
+
+
+/* BARRA DE NAVEGAÇÃO ENTRE PÁGINAS */
 #troca-pagina{
     font-family: Fela, Arial, sans-serif;
     font-size: 20px;
     text-align: center;
-    margin-top: 430px;
+    margin-top: 50px;
     padding: 15px;
     background-color: rgba(40, 111, 167);
     clear: both;
 }
+/* ABAS SELECIONADAS EM QUE O MOUSE ESTÁ EM CIMA FICAM EM BRANCO */
 .pagina:hover{
     color: white;
 }
+/*DEIXA A COR DO MENU SELECIONADA NA ABA QUE ESTIVER ABERTA*/
 .selecionar{
     color: white;
 }
+/* DEICA AS ABAS DE NAVEGAÇÃO LADO A LADO */
 li{
     display: inline;
 }

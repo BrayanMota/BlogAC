@@ -44,7 +44,42 @@
     padding-left: 350px;
     padding-right: 200px;
 }
-
+@media(min-width: 375px) {
+    
+    .nome1{
+        font-family: Assassins, Arial, sans-serif;
+        font-size: 35px;
+        margin-top: 100px;
+        clear: both;
+    }
+    .nomes{
+        font-family: Assassins, Arial, sans-serif;
+        font-size: 35px;
+        margin-top: 50px;
+        padding-top: 100px;
+        
+    }
+    .capas{
+        width: 300px;
+        height: 430px;
+        margin-top: 20px;
+        border: 2px solid black;
+        
+    }
+    .titulo-conteudo{
+        font-family: Fela, Arial, sans-serif;
+        font-size: 18px;
+        padding-top: 22px;
+        padding-left: 350px;
+    }
+    .conteudo{
+        font-family: 'Open Sans', Arial, sans-serif;
+        font-size: 18px;
+        padding-top: 22px;
+        padding-left: 350px;
+        padding-right: 200px;
+    }
+} 
 
 /* BARRA DE NAVEGAÇÃO ENTRE PÁGINAS */
 #troca-pagina{

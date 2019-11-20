@@ -75,6 +75,7 @@ a{
 /* FOOTER PADRÃO DA PÁGINA */
 footer{
     background-color: black;
+    padding: 5px;
     font-size: 30px;
     color: #999;
 }

@@ -8,12 +8,24 @@
     font-family: Fela;
     src: url('../fonts/Fela.otf');
 }
+.apresentacao{
+    font-family: Fela, Arial, sans-serif;
+    font-size: 5vh;
+    padding: 5vh;
+    padding-top: 10vh;
+}
+.sub-apresentacao{
+    font-family: Fela, Arial, sans-serif;
+    font-size: 3vh;
+    padding: 5vh;
+    padding-top: 0.5vh;
+}
 /* SERIE PRINCIPAL */
 .serie-principal{
     font-family: Fela, Arial, sans-serif;
     font-size: 40px;
     margin-top: 100px;
-    text-align: center;
+    text-align: center
 }
 .sub-serie{
     font-family: Fela, Arial, sans-serif;

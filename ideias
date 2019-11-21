@@ -1,3 +1,10 @@
+CSS-GRID
+===============================================================================
+//NOVIDADES-IDEIAS
+Colocar nas imagens a tag Alt
+Pesquisar Novas Fontes para poder implementar ou trocar
+Aumentar o tamanho do sub-titulo da página home
+Linkar os jogos com a página de cada jogo
 ===============================================================================
 //NOTICIAS 
 1 - https://viciados.net/assassins-creed-ragnarok-pode-ser-anunciado-em-fevereiro/
@@ -7,14 +14,32 @@
 5 - https://www.techtudo.com.br/noticias/2019/06/assassins-creed-odyssey-ganha-ferramenta-para-criacao-de-historias.ghtml
 6 - https://olhardigital.com.br/games-e-consoles/noticia/ubisoft-libera-o-download-gratuito-de-assassin-s-creed-unity-para-pc/84870
 ===============================================================================
-Colocar nas imagens a tag Alt
-===============================================================================
-Pesquisar Novas Fontes
-===============================================================================
-//RESPONSIVIDADES
+//RESPONSIVIDADES (Não tem na vdd)
 1 - 1920 x 1080
 2 - 1330 x 1080
 3 - 
 ===============================================================================
 
 ===============================================================================
+//IDEIAS
+1 - Mudar Fonte dos textos principais URGENTE (Cria um arquivo css chamado fontes e define para cada Tag uma fonte que ja vai pro site todo)
+2 - Alterar o Padding do conteudo
+3 - Alinhamento Imagem textos
+3.5 - Altera a Aparição do texto na page principal seu porra
+4 - Adição de Links e Mais funcionalidades Usuario Site
+5 - Altera o footer pela mor de Satan
+6 - Dica : Adicionar Links de compras para os jogos
+7 - Adcionar Avaliação da Critica e dos Jogadores sobre o jogo
+8 - Dica: Alterar discretamente o fundo na mudança de Aba
+9 - Responsividade né por favor
+10 - Dica: Usuários não gostam de ler, Adiciona algo na home que chame atenção Imagem por exemplo ou a Inteligência do jogo falando uma frase.
+11 - Adicionar Funcionalidade nas Imagens de noticia.
+12 - MELHORAR PELO AMOR DE UM CARALHO NEGRO O JEITO QUE VC PASSA AS  NOTICIAS PORQUE PUTA QUE PARIU QUE VONTADE DE QUEIMAR UM JUDEU OLHANDO A PORRA DO TEXTO ESTATICO ALI.
+13 - Dica: Adicionar notificação de noticia por email
+14 - Sugestão para a 8 : Adicionar um funco em movimento como se fosse a tela de loading do AC 4
+15 - NÂO USA PIXEL COMO TAMANHO DA IMAGEM CACETE, Tem que usar vh ou vw, ou vmax ou vmin no ultimo caso PIXEL
+16 - Se quiser ter um controle maior do site utilizar css GRID
+17 - Remember Assassins, Nothing is True Tverything is Permitted, this is our Creed, don't forget him. (DEIXAR ESSA FRASE MAIS PADRONIZADA COM RELAÇÃO AS LETRAS MAIUSCULAS NO COMEÇO DA FRASE ETC)
+18 - FAZER MENU DE PAGINAS DECENTE EM LIVROS E NOTICIAS
+19 - Adiciona icones na parte do menu de navegação principal e um ícone na parte do Titúlo principal
+20(PRINCIPAL) - Sugar uma rola grossa.

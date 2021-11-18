@@ -1,0 +1,34 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+{% include 'partials/nav.html' %}
+<div class="jogos">
+    {% if jogos %}
+    {% for jogo in jogos %}
+    <ul>
+        <li>
+            <h3 class="nome">{{ jogo.nome_jogo }}</h3>
+        </li>
+        <li>
+            <img class="capas" src="">{{ imagem_capa }}</img>
+        </li>
+        <li>
+            <p class="titulo-conteudo">Data de Lançamento</p>
+        </li>
+        <li>
+            <p class="conteudo">{{ jogo.data_lancamento }}</p>
+        </li>
+        <li>
+            <p class="titulo-conteudo">Sinopse</p>
+        </li>
+        <li>
+            <p class="conteudo">{{ jogo.sinopse }}</p>
+        </li>
+    </ul>
+    {% endfor %}
+    {% else %}
+    {% endif %}
+</div>
+{% include 'partials/footer.html' %}
+{% endblock content %}

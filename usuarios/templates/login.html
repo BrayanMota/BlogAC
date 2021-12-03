@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+
+{% include 'partials/nav.html' %}
+<main>
+    <div class="row">
+        <div class="col-12">
+            <div class="contact-form-area">
+                <form action="{% url 'login' %}" method="POST">
+                    {% csrf_token %}
+                    <div class="row">
+                        <div class="col-12 col-lg-12">
+                            <label for="email"><b>Email</b></label>
+                            <input type="text" id="email" class="form-control" name="email"
+                                placeholder="Entre com o email cadastrado">
+                        </div>
+                        <div class="col-12 col-lg-12">
+                            <label for="senha"><b>Senha</b></label>
+                            <input id="senha" type="password" class="form-control" name="senha"
+                                placeholder="Digite aqui sua senha">
+                        </div>
+                        <div class="col-12 text-center">
+                            <button class="btn btn-success" type="submit">Entrar</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</main>
+{% include 'partials/footer.html' %}
+
+{% endblock content %}
